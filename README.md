@@ -65,6 +65,3 @@ The toolbox must be installed and available on the MATLAB path before running ei
 
 For changes, please keep the entry-point instructions and character support list in sync with the MATLAB scripts. Include the MATLAB/toolbox versions and any reproducible steps when reporting a problem.
 
-## License
-
-No license file is currently included. Contact the repository owner before redistributing or reusing this code.
